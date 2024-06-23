@@ -24,7 +24,7 @@
   
 ## Skills
 
-[![](https://github-widgetbox.vercel.app/api/skills?names=js,cpp,c,csharp,python,java,yaml,json&includeNames=true&theme=darkmode)](https://github.com/KaanFlod)
+[![](https://github-widgetbox.vercel.app/api/skills?names=js,cpp,c,csharp,python,java,yaml&includeNames=true&theme=darkmode)](https://github.com/KaanFlod)
   
  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,nodejs&includeNames=true&theme=darkmode)](https://github.com/KaanFlod)
   
@@ -37,5 +37,6 @@
 [![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=ff016e)](https://github.com/KaanFlod)
 [![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=ff016e)](https://github.com/KaanFlod)
 [![](https://img.shields.io/badge/Tools-SteamCMD-informational?style=flat&logo=steam&logoColor=white&color=ff016e)](https://github.com/KaanFlod)
+[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=steam&logoColor=white&color=ff016e)](https://github.com/KaanFlod)
 
 </div>

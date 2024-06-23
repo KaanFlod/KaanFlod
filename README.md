@@ -10,8 +10,6 @@
 <a href="https://github.com/KaanFlod">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaanFlod&count_private=true&theme=radical&show_icons=true&hide=stars"/>
 
-[![An image of @KaanFlod's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/KaanFlod)](https://holopin.io/@KaanFlod)
-
 
 [![KaanFlodGrap](https://github-readme-activity-graph.vercel.app/graph?username=KaanFlod&hide_border=true&theme=xcode)](https://github.com/KaanFlod/)
   

@@ -22,7 +22,7 @@
   
 ## Skills
 
-[![](https://github-widgetbox.vercel.app/api/skills?names=js,cpp,c,csharp,python,java,yaml&includeNames=true&theme=darkmode)](https://github.com/KaanFlod)
+[![](https://github-widgetbox.vercel.app/api/skills?names=cpp,c,csharp,python,java,yaml&includeNames=true&theme=darkmode)](https://github.com/KaanFlod)
   
  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,nodejs&includeNames=true&theme=darkmode)](https://github.com/KaanFlod)
   
